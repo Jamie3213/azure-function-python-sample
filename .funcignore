@@ -1,0 +1,11 @@
+__pycache__
+.mypy_cache
+.pytest_cache
+.venv
+.vscode
+tests
+.gitignore
+.pre-commit-config.yaml
+local.settings.json
+README.md
+requirements-dev.txt
